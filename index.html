@@ -9,7 +9,7 @@
   <title>The Voice</title>
 </head>
 <body>
-<main class="container flex">
+<main class="container  flex border border-dark mt-5 w-50">
     <header class="mt-5 text-center bg-warning">
           <h1 class="pt-2">the voiceinator 5000</h1>
     </header>
@@ -17,7 +17,19 @@
         <select name="voice" id="voices">
         <option value="">select a voice</option>
         </select>
+
+        <label for="rate ">Rate:</label>
+        <input name="rate" type="range" min="0" max="3" value="1" step="0.1">
+
+        <label for="pitch">pitch:</label>
+        <input name="pitch" type="range" min="0" max="2" step="0.1">
+        <textarea name="text">hello! I Love Javascript</textarea>
+        <section class=" d-flex justify-content-around ">
+        <button type="button" class="btn btn-warning">Stop!</button>
+<button type="button" class="btn btn-warning">Speak</button>
+</section>
     </section>
+
 
 </main>
 
