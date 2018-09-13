@@ -4,7 +4,8 @@
   "description": "Fayad Alkhadra",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d public"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ghost-fa/the-voice/issues"
   },
-  "homepage": "https://github.com/ghost-fa/the-voice#readme"
+  "homepage": "https://github.com/ghost-fa/the-voice#readme",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
