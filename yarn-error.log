@@ -1,5 +1,5 @@
 Arguments: 
-  /home/fayad/.nvm/versions/node/v8.11.2/bin/node /usr/share/yarn/bin/yarn.js start
+  /home/fayad/.nvm/versions/node/v8.11.2/bin/node /usr/share/yarn/bin/yarn.js add --dev gh-pages
 
 PATH: 
   /home/fayad/.nvm/versions/node/v8.11.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin

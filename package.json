@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/ghost-fa/the-voice/issues"
   },
-  "homepage": "https://github.com/ghost-fa/the-voice#readme",
-  "dependencies": {
-    "bootstrap": "^4.1.3",
-    
-  }
+  "homepage": "https://github.com/ghost-fa/the-voice#readme"
 }
