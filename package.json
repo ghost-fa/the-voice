@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ghost-fa/the-voice/issues"
   },
-  "homepage": "https://github.com/ghost-fa/the-voice#readme",
+  "homepage": "https://ghost-fa.github.io/the-voice/",
   "devDependencies": {
     "gh-pages": "^1.2.0"
   }
