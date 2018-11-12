@@ -9,3 +9,16 @@ input, textarea {
   padding: 10px;
   background: #4b5456;
 }
+
+
+
+
+.voice{
+  font-size: 1.5rem;
+}
+
+@media (min-width:650px) {
+.voice{
+  font-size: 4rem;
+}
+}
